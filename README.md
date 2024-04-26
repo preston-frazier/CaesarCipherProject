@@ -1,8 +1,10 @@
-# CaesarCipherProject
-cd path/to/your/project
-git init
-git add .
-git add filename
-https://github.com/preston-frazier/CaesarCipherProject
-git push -u origin main
-git push -u origin master
+# Caesar Cipher Project
+
+This project implements a simple Caesar cipher in Python. It can encrypt and decrypt messages using a specified shift amount.
+
+## How to Run
+- Clone this repository.
+- Navigate to the project directory.
+- Run the script using Python:
+  ```bash
+  python caesar_cipher.py
